@@ -1,0 +1,6 @@
+{
+  "name": "Prompt Evaluation Framework",
+  "description": "Comparative evaluation framework for LLMs featuring the Mora Rohith report on 20 prompts and a live Gemini-powered evaluation playground.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
